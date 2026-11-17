@@ -10,5 +10,5 @@ Computer Engineering student (Year 2) · Aspiring Backend Engineer
 - (coming soon) Game backend service for my Roblox game — stats, leaderboard, anti-cheat
 
 ### 📫 Contact
-- Email: <อีเมล>
-- LinkedIn: <ลิงก์>
+- Email: Piyananokp@gmail.com
+- LinkedIn: ***
