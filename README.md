@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm <ชื่อ> 👋
 
-<!--
-**Piyanan-Dev/Piyanan-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student (Year 2) · Aspiring Backend Engineer
 
-Here are some ideas to get you started:
+### 🔧 Currently learning
+- Go, PostgreSQL, Docker
+- Building backend services for real users
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects
+- (coming soon) Game backend service for my Roblox game — stats, leaderboard, anti-cheat
+
+### 📫 Contact
+- Email: <อีเมล>
+- LinkedIn: <ลิงก์>
